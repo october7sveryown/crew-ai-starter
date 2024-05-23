@@ -1,5 +1,5 @@
 **Project Title**
- Crew AI Starter
+Crew AI Starter
 
 **Description**
 The Crew AI Starter is a Python project that utilizes the Crew AI framework to automate various use-cases. The project is designed to demonstrate the capabilities of the Crew AI framework in various use cases.
