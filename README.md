@@ -1,9 +1,8 @@
 **Project Title**
- Crew AI Starter: Automated Blog Post Generation
+ Crew AI Starter
 
 **Description**
-The Crew AI Starter is a Python project that utilizes the Crew AI framework to generate automated blog posts. The project is designed to demonstrate the capabilities of the Crew AI framework in generating high-quality content. The code uses various tools and agents to write and edit blog posts, making it an excellent example of natural language processing and content generation.
-
+The Crew AI Starter is a Python project that utilizes the Crew AI framework to automate various use-cases. The project is designed to demonstrate the capabilities of the Crew AI framework in various use cases.
 **Table of Contents**
 ================================================================================================
 
